@@ -1,0 +1,163 @@
+
+
+
+
+.d-flex {
+    background-color: rgb(248,248,248);
+}
+.fixed-top{
+    background-color: rgb(248,249,250);
+    height: 83px;
+}
+/*
+    color: #f08492
+
+ */
+.nav-link {
+    font-family: "宋体" ;
+    font-size: 18px;
+}
+#news {
+    width: 450px;
+}
+#news-list {
+    list-style-type: none;
+}
+#news-time {
+    font-size: small;
+    color: #f08492;
+}
+#news-content {
+    font-family: sans-serif;
+    font-weight: 400;
+}
+#nav2 {
+    height: 82px;
+}
+
+#nav2 .nav-item {
+    width: 100%;
+    border: solid 1px rgb(228,228,228);
+
+    padding-top: 13px;
+    padding-left: 21px;
+    padding-right: 21px;
+    padding-bottom: 12px;
+}
+#nav3 .nav-item {
+    width: 100%;
+    border: solid 1px rgb(228,228,228);
+
+    padding: 13px 21px 12px;
+}
+
+
+#nav3 {
+    position: fixed;
+    left: 0;
+    top: 81px;
+    height: 82px;
+    visibility: hidden;
+
+}
+.nav-link img {
+    width: 79px;
+    height: 38px;
+}
+.before {
+    position: absolute;
+    left: 0;
+    top: 14px;
+    border-top-color: rgb(240,132,146);
+    border-right-color: rgb(240,132,146);
+    border-width: 1px;
+    transform: matrix(0.707107, 0.707107, -0.707107, 0.707107, 2.12132, -2.12132) rotate(45deg) translate(0,-50%);
+    width: 6px;
+
+}
+#player-table {
+
+}
+#play {
+    background-color: white;
+}
+#empty-nav {
+
+    height: 200px;
+}
+#title {
+    height: 100px;
+    font-family: Algerian;
+    color: #f08492;
+}
+#empty-nav1 {
+    height: 30px;
+}
+/*
+.row {
+    border: solid 1px;
+}
+.col {
+    border: solid 1px;
+}
+
+ */
+
+#player {
+    position: relative;
+    left: 15%;
+
+    width: 70%;
+
+
+}
+
+.tian {
+    height: 10px;
+}
+
+#sets {
+    background-color: white;
+}
+
+.btn-light {
+    background-color: rgb(75,75,75);
+    color: rgb(250,250,250);
+}
+
+.col {
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+#title {
+    position: fixed;
+}
+
+#arrow-second {
+    position: relative;
+}
+
+.arrow-second {
+    position: absolute;
+    left: 48%;
+    top: 75%;
+    z-index: 10;
+    transform: rotate(45deg);
+    border-right: solid 2px #f08492;
+    border-bottom: solid 2px #f08492;
+    width: 10px;
+    height: 10px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
