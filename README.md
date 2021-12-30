@@ -1,4 +1,4 @@
 #  A animation site published at http://ghostory.cn/ 
 
-## Only can watch ❤monogatari-series❤！！！
+## One heart for monogatari-series❤！！！
 ## Final task for Web design CCNU 2021
