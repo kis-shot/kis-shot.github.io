@@ -1,4 +1,4 @@
-#  A animation site published at http://ghostory.cn/ 
+#A animation site published at http://ghostory.cn/ 
 
 ### ❤
 ### Happy new year!
