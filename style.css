@@ -223,3 +223,13 @@
     color: #f08492;
 }
 
+#suggest {
+    background-color: #f08492;
+    height: 50px;
+    width: 100px;
+    color: black;
+}
+#suggest a {
+    color: black;
+}
+
