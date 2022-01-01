@@ -117,6 +117,9 @@ el.onmouseout = function () {
 }
 */
 
+document.getElementById('suggest').addEventListener('click',function (){
+    document.getElementById('visitor').style.visibility = 'visible'
+})
 
 
 
