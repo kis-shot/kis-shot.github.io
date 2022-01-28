@@ -212,8 +212,8 @@ function change(data,episode) {
     'http://kissshot1.test.upcdn.net/04%E7%89%A9%E8%AF%AD%E7%B3%BB%E5%88%97%E7%AC%AC%E4%BA%8C%E5%AD%A3/05%E5%80%BE%E7%89%A9%E8%AF%AD/%5BSAIO-Raws%5D%20Kabukimonogatari%2001%20%5BBD%201920x1080%20HEVC-10bit%20OPUSx2%20ASSx4%5D.mp4',
 
     'http://kissshot1.test.upcdn.net/09%E8%8A%B1%E7%89%A9%E8%AF%AD/%5BSAIO-Raws%5D%20Hanamonogatari%2001%20%5BBD%201920x1080%20HEVC-10bit%20OPUSx2%20ASSx4%5D.mp4',
-        'http://kissshot1.test.upcdn.net/04%E7%89%A9%E8%AF%AD%E7%B3%BB%E5%88%97%E7%AC%AC%E4%BA%8C%E5%AD%A3/07%E9%AC%BC%E7%89%A9%E8%AF%AD/%5BSAIO-Raws%5D%20Otorimonogatari%2001%20%5BBD%201920x1080%20HEVC-10bit%20OPUSx2%20ASSx4%5D.mp4',
-    'http://kissshot1.test.upcdn.net/04%E7%89%A9%E8%AF%AD%E7%B3%BB%E5%88%97%E7%AC%AC%E4%BA%8C%E5%AD%A3/06%E5%9B%AE%E7%89%A9%E8%AF%AD/%5BSAIO-Raws%5D%20Onimonogatari%2001%20%5BBD%201920x1080%20HEVC-10bit%20OPUSx2%20ASSx4%5D.mp4',
+        'http://kissshot1.test.upcdn.net/04%E7%89%A9%E8%AF%AD%E7%B3%BB%E5%88%97%E7%AC%AC%E4%BA%8C%E5%AD%A3/06%E5%9B%AE%E7%89%A9%E8%AF%AD/%5BSAIO-Raws%5D%20Onimonogatari%2001%20%5BBD%201920x1080%20HEVC-10bit%20OPUSx2%20ASSx4%5D.mp4',
+    'http://kissshot1.test.upcdn.net/04%E7%89%A9%E8%AF%AD%E7%B3%BB%E5%88%97%E7%AC%AC%E4%BA%8C%E5%AD%A3/07%E9%AC%BC%E7%89%A9%E8%AF%AD/%5BSAIO-Raws%5D%20Otorimonogatari%2001%20%5BBD%201920x1080%20HEVC-10bit%20OPUSx2%20ASSx4%5D.mp4',
     'http://kissshot1.test.upcdn.net/04%E7%89%A9%E8%AF%AD%E7%B3%BB%E5%88%97%E7%AC%AC%E4%BA%8C%E5%AD%A3/08%E6%81%8B%E7%89%A9%E8%AF%AD/%5BSAIO-Raws%5D%20Koimonogatari%2001%20%5BBD%201920x1080%20HEVC-10bit%20OPUSx2%20ASSx4%5D.mp4']
 
     let names = ['化物语','伪物语','猫物语^黑','凭物语','终物语','历物语','伤物语','续^终物语',
